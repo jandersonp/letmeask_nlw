@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="./src/assets/imagens/logo.png" alt="letmeask" />
+  <img src="./src/assets/images/logo.png" alt="letmeask" />
 </h3>
 
 <h1 align="center">
@@ -8,7 +8,7 @@
 
 ## Sobre o projeto
 
-Aplicação de pergunta e respostas. Tire as dúvidas da sua audiência em tempo-real.
+Aplicação de perguntas e respostas. Tire as dúvidas da sua audiência em tempo-real.
 
 **Home**
 <img src="https://i.imgur.com/RVTS1tZ.png" />
